@@ -1,0 +1,15 @@
+D:\Examples\Example001_HellloConsole\bin\Debug\net6.0\Example001_HellloConsole.exe
+D:\Examples\Example001_HellloConsole\bin\Debug\net6.0\Example001_HellloConsole.deps.json
+D:\Examples\Example001_HellloConsole\bin\Debug\net6.0\Example001_HellloConsole.runtimeconfig.json
+D:\Examples\Example001_HellloConsole\bin\Debug\net6.0\Example001_HellloConsole.dll
+D:\Examples\Example001_HellloConsole\bin\Debug\net6.0\Example001_HellloConsole.pdb
+D:\Examples\Example001_HellloConsole\obj\Debug\net6.0\Example001_HellloConsole.csproj.AssemblyReference.cache
+D:\Examples\Example001_HellloConsole\obj\Debug\net6.0\Example001_HellloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\Example001_HellloConsole\obj\Debug\net6.0\Example001_HellloConsole.AssemblyInfoInputs.cache
+D:\Examples\Example001_HellloConsole\obj\Debug\net6.0\Example001_HellloConsole.AssemblyInfo.cs
+D:\Examples\Example001_HellloConsole\obj\Debug\net6.0\Example001_HellloConsole.csproj.CoreCompileInputs.cache
+D:\Examples\Example001_HellloConsole\obj\Debug\net6.0\Example001_HellloConsole.dll
+D:\Examples\Example001_HellloConsole\obj\Debug\net6.0\refint\Example001_HellloConsole.dll
+D:\Examples\Example001_HellloConsole\obj\Debug\net6.0\Example001_HellloConsole.pdb
+D:\Examples\Example001_HellloConsole\obj\Debug\net6.0\Example001_HellloConsole.genruntimeconfig.cache
+D:\Examples\Example001_HellloConsole\obj\Debug\net6.0\ref\Example001_HellloConsole.dll
